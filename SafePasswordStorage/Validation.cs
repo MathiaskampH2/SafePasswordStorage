@@ -3,6 +3,11 @@ using System.Threading;
 
 namespace SafePasswordStorage
 {
+    /// <summary>
+    /// class Validation
+    /// Has the purpose of validating the users password.
+    /// if the inserted password is the same as the one saved to the file.
+    /// </summary>
 
     class Validation
     {
